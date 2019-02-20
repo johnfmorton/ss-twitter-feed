@@ -23,7 +23,7 @@ To install the plugin, follow these instructions.
 
 ## SS Twitter Feed Overview
 
-A plugin for Craft CMS that allows you to retrive your Twitter timeline.
+A plugin for Craft CMS that allows you to retrieve your Twitter timeline.
 
 ## Configuring SS Twitter Feed
 
